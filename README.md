@@ -15,20 +15,6 @@ Welcome to my personal corner of the internet! I am a 1st-year Computer Science 
 
 ---
 
-## 👁️ Signature Watching Eyes Interaction
-
-Fixed at the bottom of the viewport, an interactive portrait of Ashwini's face emerges from the edge. The pupils smoothly track the visitor's cursor across the screen in real-time using performant `requestAnimationFrame` interpolation, settling naturally when idle.
-
----
-
-## 🌟 Interactive Atmosphere & Easter Eggs
-
-- **Subtle Cursor Aura**: Soft organic glow following mouse movement on desktop.
-- **Cat Easter Eggs**: Discreet, playful cat discoveries hidden across the lab (e.g. peeking cat with witty micro-dialogues).
-- **Interactive Tech Stamps**: Tactile badges for Java, Python, and C.
-
----
-
 ## 🧪 Featured Projects & Concepts
 
 1. **Hermione — Your Study Mate**

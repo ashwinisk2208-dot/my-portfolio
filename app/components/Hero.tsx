@@ -9,7 +9,6 @@ const exploringThoughts = [
   "building weird software just to see if I can ✨",
   "Bangalore filter coffee & terminal tabs ☕",
   "rapid prototyping with AI & code 🚀",
-  "cat.exe sitting on keyboard: typing a;sldkfj 🐾",
 ];
 
 export default function Hero() {
