@@ -15,6 +15,20 @@ Welcome to my personal corner of the internet! I am a 1st-year Computer Science 
 
 ---
 
+## 👁️ Signature Watching Eyes Interaction
+
+Fixed at the bottom of the viewport, an interactive portrait of Ashwini's face emerges from the edge. The pupils smoothly track the visitor's cursor across the screen in real-time using performant `requestAnimationFrame` interpolation, settling naturally when idle.
+
+---
+
+## 🌟 Interactive Atmosphere & Easter Eggs
+
+- **Subtle Cursor Aura**: Soft organic glow following mouse movement on desktop.
+- **Cat Easter Eggs**: Discreet, playful cat discoveries hidden across the lab (e.g. peeking cat with witty micro-dialogues).
+- **Interactive Tech Stamps**: Tactile badges for Java, Python, and C.
+
+---
+
 ## 🧪 Featured Projects & Concepts
 
 1. **Hermione — Your Study Mate**
@@ -26,12 +40,6 @@ Welcome to my personal corner of the internet! I am a 1st-year Computer Science 
    - A personal career-planning concept designed to help students create and follow a structured career roadmap.
    - Built with: *ChatGPT*
    - Status: *In Development / Coming Soon*
-
----
-
-## 🧸 Interactive Mascot Companion
-
-Features an original, interactive anime-inspired cartoon companion that wanders along with you as you scroll, shares playful commentary across sections, and reacts to user clicks!
 
 ---
 

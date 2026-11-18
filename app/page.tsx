@@ -5,11 +5,16 @@ import Projects from "./components/Projects";
 import CurrentlyInto from "./components/CurrentlyInto";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
-import CompanionCharacter from "./components/CompanionCharacter";
+import AshwiniEyes from "./components/AshwiniEyes";
+import CursorAura from "./components/CursorAura";
+import CatEasterEgg from "./components/CatEasterEgg";
 
 export default function Home() {
   return (
     <div className="min-h-screen bg-background text-slate-100 relative overflow-x-hidden">
+      {/* Subtle Interactive Cursor Glow Aura */}
+      <CursorAura />
+
       {/* 1. Navbar */}
       <Navbar />
 
@@ -33,8 +38,11 @@ export default function Home() {
       {/* 7. Footer */}
       <Footer />
 
-      {/* 🧸 Interactive Cartoon Companion Character */}
-      <CompanionCharacter />
+      {/* Secret Peeking Cat Easter Egg */}
+      <CatEasterEgg />
+
+      {/* Signature Fixed Watching Eyes (pupils track cursor in real time) */}
+      <AshwiniEyes />
     </div>
   );
 }
